@@ -1,7 +1,7 @@
-# run.py
+# src/run.py
 
-from bot_config import BotConfig
-from bot_main import TelegramBot
+from src.bot_config import BotConfig
+from src.bot_main import TelegramBot
 
 def main():
     # إنشاء كائن التكوين
